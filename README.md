@@ -5,3 +5,5 @@ Learning Git step by step.
 Git is an essential version control system.
 
 This project is connected to GitHub.
+
+This change was made on the feature-readme branch.
