@@ -8,4 +8,6 @@ This project is connected to GitHub.
 
 This change was made on the feature-readme branch.
 
+This change was made on the feature-readme branch.
 This change was made on master after branching.
+This change was made for rebase practice.
